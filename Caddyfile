@@ -1,0 +1,5 @@
+{$SITE_ADDRESS}
+
+# https://caddyserver.com/docs/quick-starts/static-files#caddyfile
+root * /srv
+file_server browse
