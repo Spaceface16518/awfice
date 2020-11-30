@@ -1,6 +1,6 @@
 {
-    "routes": [
+    "routes": {
         "src": ".*",
         "headers": { "cache-control": "public,max-age=604800,stale-while-revalidate=120"}
-    ]
+    }
 }
